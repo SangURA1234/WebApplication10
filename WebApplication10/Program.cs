@@ -14,7 +14,7 @@ namespace WebApplication10
         public static void Main(string[] args)
         {
             int b = 10;
-            intt c = 5;
+            int c = 5;
             CreateHostBuilder(args).Build().Run();
         }
 
