@@ -13,6 +13,7 @@ namespace WebApplication10
     {
         public static void Main(string[] args)
         {
+            int a = 1;
             CreateHostBuilder(args).Build().Run();
         }
 
